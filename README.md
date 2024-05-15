@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HemantKumar0322
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking for internship
 - 📫 contect = hmorya0322@gmail.com
 
 <!---
